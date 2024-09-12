@@ -119,11 +119,19 @@ plt.show()
 
 # OUTPUT:
 
+Dataset:
+
 ![image](https://github.com/user-attachments/assets/8366111b-c410-4d16-9a43-5db27b96c760)
+
+Scatter plot:
 
 ![image](https://github.com/user-attachments/assets/bb3891cb-fd98-4dbd-b430-adf6547f5a99)
 
+Error plot:
+
 ![image](https://github.com/user-attachments/assets/29e3b36e-fdf4-4773-9b67-62949bbd683a)
+
+Accuracy:
 
 ![image](https://github.com/user-attachments/assets/109fddae-5726-4174-b343-b3b08c95f40b)
 
